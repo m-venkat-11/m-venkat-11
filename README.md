@@ -28,16 +28,19 @@
 ## 👨‍💻 About Me
 
 <a href="https://github.com/m-venkat-11">
-  <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding"/>
+  <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding"/>
 </a>
-<br clear="right"/>
-<a href="https://github.com/m-venkat-11">
-  <img align="right" width="300" src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
-</a>
-<br clear="right"/>
-<a href="https://github.com/m-venkat-11">
-  <img align="right" width="300" src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/developer-highlights.svg" alt="Engineering Highlights & Domains"/>
-</a>
+
+- 👨‍💻 **Role**: **Full-Stack Architect & AI Systems Engineer**
+- 🎓 **Education**: **B.Tech in Computer Science & Engineering**
+- 📍 **Location**: **India 🇮🇳**
+- 🚀 **Flagship Systems**: **V-Vision** (C & GDB MI2), **PathWise** (Kotlin & Android), **OmniPulse** (Next.js 16)
+- 🧠 **Core Stack**: TypeScript, React, Next.js, Python, FastAPI, C, Kotlin, PostgreSQL, Supabase, Docker
+- 🎯 **Current Focus**: Low-latency systems, AI verification engines, and scalable mobile apps
+- 💼 **Status**: **Actively Open to Roles & Collaborations**
+
+<details>
+<summary><b>🐍 View as Python Developer Object</b></summary>
 
 ```python
 class Developer:
@@ -45,29 +48,29 @@ class Developer:
         self.name = "M.Venkat"
         self.location = "India 🇮🇳"
         self.education = "B.Tech Computer Science"
-        self.roles = [
-            "Full-Stack Architect",
-            "AI Systems Engineer",
-            "Systems & App Developer"
-        ]
-
-    def tech_stack(self):
-        return {
+        self.roles = ["Full-Stack Architect", "AI Systems Engineer", "Systems & App Developer"]
+        self.tech_stack = {
             "languages": ["Python", "TypeScript", "C", "Kotlin", "SQL"],
             "frontend":  ["React", "Next.js 16", "Vite", "TailwindCSS"],
             "backend":   ["FastAPI", "Node.js", "Express", "Supabase"],
-            "systems":   ["GDB MI2", "Linux", "Docker", "WebRTC"],
-            "ai_tools":  ["Gemini API", "Vercel AI SDK", "Actions"]
+            "systems":   ["GDB MI2", "Linux", "Docker", "WebRTC"]
         }
-
-    def current_focus(self):
-        return [
-            "⚡ Universal C Visualizer (V-Vision)",
-            "🌌 Sci-Fi Route Tracker (PathWise)",
-            "📊 AI Marketing Intelligence (OmniPulse)",
-            "☕ Shipping clean, tested systems"
-        ]
+        self.current_focus = ["V-Vision", "PathWise", "OmniPulse"]
 ```
+
+</details>
+
+<br clear="both"/>
+
+<p align="center">
+  <a href="https://github.com/m-venkat-11">
+    <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-streak-stats.svg" width="49%" alt="GitHub Streak Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/m-venkat-11">
+    <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/developer-highlights.svg" width="49%" alt="Engineering Highlights & Domains"/>
+  </a>
+</p>
 
 <br clear="both"/>
 
