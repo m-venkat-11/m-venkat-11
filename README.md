@@ -4,7 +4,7 @@
 <!-- ANIMATED TYPING BANNER -->
 <p align="center">
   <a href="https://github.com/m-venkat-11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+Architecting+Scalable+Web+%26+Mobile+Systems;%F0%9F%A7%A0+Building+AI-Powered+Platforms+%26+Audit+Engines;%E2%9A%A1+TypeScript+%7C+Next.js+%7C+Kotlin+%7C+Python+%7C+Supabase;%F0%9F%8E%AE+Creator+of+DuelVerse%2C+PathWise+%26+OmniPulse" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+Architecting+Scalable+Web+%26+Mobile+Systems;%F0%9F%A7%A0+Building+AI-Powered+Platforms+%26+Audit+Engines;%E2%9A%A1+TypeScript+%7C+Next.js+%7C+Kotlin+%7C+Python+%7C+Supabase;%F0%9F%94%AC+Creator+of+V-Vision%2C+PathWise+%26+OmniPulse" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -27,35 +27,34 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
-
 ```python
 class Developer:
     def __init__(self):
         self.name = "M.Venkat"
+        self.location = "India 🇮🇳"
+        self.education = "B.Tech Computer Science"
         self.roles = [
             "Full-Stack Architect",
             "AI Systems Engineer",
-            "Mobile App Developer"
+            "Systems & App Developer"
         ]
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech Computer Science"
 
     def tech_stack(self):
         return {
-            "frontend": ["TypeScript", "React", "Next.js 16", "Vite", "TailwindCSS"],
-            "backend":  ["Python", "FastAPI", "Node.js", "PostgreSQL", "Supabase"],
-            "mobile":   ["Android (Kotlin)", "Jetpack Compose"],
-            "systems":  ["C", "Linux", "WebRTC P2P", "SHA-256 Tamper Audit"],
-            "cloud_ai": ["Docker", "Git/CI-CD", "Gemini API", "Vercel AI SDK"]
+            "languages": ["Python", "TypeScript", "C", "Kotlin", "SQL"],
+            "frontend":  ["React", "Next.js 16", "Vite", "TailwindCSS"],
+            "backend":   ["FastAPI", "Node.js", "Express", "Supabase"],
+            "databases": ["PostgreSQL", "MySQL", "SQLite"],
+            "systems":   ["GDB MI2", "Linux", "WebRTC", "Docker"],
+            "ai_tools":  ["Gemini API", "Vercel AI SDK", "CI/CD Actions"]
         }
 
     def current_focus(self):
         return [
-            "⚡ Real-time multiplayer arcade ecosystems (DuelVerse)",
-            "🌌 Cinematic holographic mobile tracking apps (PathWise)",
-            "🧠 Tamper-evident AI marketing intelligence (OmniPulse)",
-            "☕ Shipping clean, production-ready code with tests"
+            "⚡ Universal C Execution & Memory Visualizer (V-Vision)",
+            "🌌 Futuristic Holographic Route Navigator (PathWise)",
+            "📊 Tamper-Evident AI Marketing Intelligence (OmniPulse)",
+            "☕ Shipping clean, tested, production-grade software"
         ]
 ```
 
@@ -72,24 +71,25 @@ class Developer:
     </tr>
   </thead>
   <tbody>
-    <!-- DUELVERSE -->
+    <!-- V-VISION -->
     <tr>
       <td>
-        <b>⚡ DuelVerse</b><br/>
-        <sub>Real-Time Multiplayer Arcade Platform</sub><br/><br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI_Bots-00D4FF?style=flat-square"/>
+        <b>👁️ V-VISION</b><br/>
+        <sub>Live Interactive C Code Execution Visualizer</sub><br/><br/>
+        <img src="https://img.shields.io/badge/C11-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/GDB_MI2-333333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Monaco-1E1E1E?style=flat-square"/>
       </td>
       <td>
-        Instant web-based 1v1 multiplayer gaming platform with <b>10 arcade games</b> (Tank Duel, Connect Four, Pong Battle, etc.). Features sub-50ms peer-to-peer WebRTC networking, QR code room join, and unbeatable <b>CyberBot AI</b> (Minimax + Markov prediction).
+        Universal live interactive C execution engine and memory visualizer powered by isolated GDB MI2. Visualizes line-by-line execution, memory offsets (<code>+0x00</code>), dynamic multi-pointer arrows (<code>i ↓</code>, <code>j ↓</code>), recursive call trees, struct composites, and dynamic heap tracking (<code>malloc</code>/<code>free</code>).
       </td>
       <td>
-        <a href="https://duel-verse.vercel.app" target="_blank">
+        <a href="https://frontend-mv-enkat.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a><br/><br/>
-        <a href="https://github.com/m-venkat-11/Duel-Verse" target="_blank">
+        <a href="https://github.com/m-venkat-11/v-vision" target="_blank">
           <img src="https://img.shields.io/badge/Source-0a0e27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </td>
@@ -198,10 +198,10 @@ class Developer:
 
 ### ⚙️ Backend, Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,mysql,sqlite&perline=6" alt="Backend & Databases"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,supabase,mysql&perline=6" alt="Backend & Databases"/>
 </p>
 
-### 🧰 Mobile, DevOps & Tooling
+### 🧰 Systems, DevOps & Tooling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,docker,git,github,githubactions,linux,vercel,postman&perline=8" alt="DevOps and Tools"/>
 </p>
