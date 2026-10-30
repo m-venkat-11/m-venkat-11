@@ -27,12 +27,14 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding"/>
+
 ```python
 class Developer:
     def __init__(self):
         self.name = "M.Venkat"
         self.location = "India 🇮🇳"
-        self.education = "B.Tech Computer Science"
+        self.education = "B.Tech CSE"
         self.roles = [
             "Full-Stack Architect",
             "AI Systems Engineer",
@@ -41,20 +43,30 @@ class Developer:
 
     def tech_stack(self):
         return {
-            "languages": ["Python", "TypeScript", "C", "Kotlin", "SQL"],
-            "frontend":  ["React", "Next.js 16", "Vite", "TailwindCSS"],
-            "backend":   ["FastAPI", "Node.js", "Express", "Supabase"],
-            "databases": ["PostgreSQL", "MySQL", "SQLite"],
-            "systems":   ["GDB MI2", "Linux", "WebRTC", "Docker"],
-            "ai_tools":  ["Gemini API", "Vercel AI SDK", "CI/CD Actions"]
+            "languages": [
+                "Python", "TypeScript",
+                "C", "Kotlin", "SQL"
+            ],
+            "frontend": [
+                "React", "Next.js 16",
+                "Vite", "TailwindCSS"
+            ],
+            "backend": [
+                "FastAPI", "Node.js",
+                "Express", "Supabase"
+            ],
+            "systems_ai": [
+                "GDB MI2", "Linux",
+                "Docker", "Gemini API"
+            ]
         }
 
     def current_focus(self):
         return [
-            "⚡ Universal C Execution & Memory Visualizer (V-Vision)",
-            "🌌 Futuristic Holographic Route Navigator (PathWise)",
-            "📊 Tamper-Evident AI Marketing Intelligence (OmniPulse)",
-            "☕ Shipping clean, tested, production-grade software"
+            "⚡ C Visualizer (V-Vision)",
+            "🌌 Route Navigator (PathWise)",
+            "📊 AI Intelligence (OmniPulse)",
+            "☕ Shipping clean software"
         ]
 ```
 
