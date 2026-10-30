@@ -234,9 +234,6 @@ class Developer:
 
 ## 📊 Live GitHub Activity & Statistics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-streak-stats.svg" alt="GitHub Streak Stats" width="80%"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-stats.svg" alt="GitHub Statistics" width="48%"/>
