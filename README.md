@@ -27,7 +27,13 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding"/>
+<a href="https://github.com/m-venkat-11">
+  <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding"/>
+</a>
+<br clear="right"/>
+<a href="https://github.com/m-venkat-11">
+  <img align="right" width="300" src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
+</a>
 
 ```python
 class Developer:
@@ -69,6 +75,8 @@ class Developer:
             "☕ Shipping clean software"
         ]
 ```
+
+<br clear="both"/>
 
 ---
 
