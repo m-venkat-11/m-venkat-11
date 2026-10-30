@@ -35,7 +35,9 @@
   <img align="right" width="300" src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
 </a>
 <br clear="right"/>
-<img align="right" width="300" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Mindset Quote"/>
+<a href="https://github.com/m-venkat-11">
+  <img align="right" width="300" src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/developer-highlights.svg" alt="Engineering Highlights & Domains"/>
+</a>
 
 ```python
 class Developer:

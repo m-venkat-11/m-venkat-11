@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495px" height="195px">
+  <defs>
+    <clipPath id="highlight_rect">
+      <rect width="495" height="195" rx="6"/>
+    </clipPath>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#00ff88"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#highlight_rect)">
+    <!-- Card Background -->
+    <rect width="495" height="195" fill="url(#cardBg)" stroke="#00d4ff" stroke-width="1.2" stroke-opacity="0.3"/>
+
+    <!-- Header Section -->
+    <g transform="translate(20, 26)">
+      <circle cx="6" cy="-4" r="3" fill="#00d4ff"/>
+      <text x="18" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="13px" fill="url(#headerGrad)" letter-spacing="1">
+        ENGINEERING HIGHLIGHTS &amp; DOMAINS
+      </text>
+      <line x1="0" y1="10" x2="455" y2="10" stroke="#00d4ff" stroke-opacity="0.2" stroke-width="1"/>
+    </g>
+
+    <!-- Point 1: Flagship Apps -->
+    <g transform="translate(20, 58)">
+      <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="12px" fill="#ffffff">
+        🚀 Production Systems
+      </text>
+      <text x="145" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="11.5px" fill="#94a3b8">
+        V-Vision (GDB C11) • PathWise (Kotlin) • OmniPulse
+      </text>
+    </g>
+
+    <!-- Point 2: Hackathons -->
+    <g transform="translate(20, 88)">
+      <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="12px" fill="#ffffff">
+        🏆 Hackathons &amp; R&amp;D
+      </text>
+      <text x="145" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="11.5px" fill="#94a3b8">
+        Smart India Hackathon (SIH '24) • Samartha Stage 1
+      </text>
+    </g>
+
+    <!-- Point 3: Core Specialization -->
+    <g transform="translate(20, 118)">
+      <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="12px" fill="#ffffff">
+        🧠 Core Speciality
+      </text>
+      <text x="145" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="11.5px" fill="#94a3b8">
+        Full-Stack Systems, Low-Latency C, AI Workflows
+      </text>
+    </g>
+
+    <!-- Metric Badges Row -->
+    <g transform="translate(20, 142)">
+      <line x1="0" y1="0" x2="455" y2="0" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+      
+      <!-- Pill 1 -->
+      <g transform="translate(0, 12)">
+        <rect width="105" height="24" rx="4" fill="#00d4ff" fill-opacity="0.12" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.4"/>
+        <text x="52.5" y="15.5" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="10.5px" fill="#00d4ff" text-anchor="middle">
+          ⚡ 12 Repositories
+        </text>
+      </g>
+
+      <!-- Pill 2 -->
+      <g transform="translate(115, 12)">
+        <rect width="115" height="24" rx="4" fill="#00ff88" fill-opacity="0.12" stroke="#00ff88" stroke-width="0.8" stroke-opacity="0.4"/>
+        <text x="57.5" y="15.5" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="10.5px" fill="#00ff88" text-anchor="middle">
+          📈 200+ Contribs
+        </text>
+      </g>
+
+      <!-- Pill 3 -->
+      <g transform="translate(240, 12)">
+        <rect width="105" height="24" rx="4" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.4"/>
+        <text x="52.5" y="15.5" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="10.5px" fill="#38bdf8" text-anchor="middle">
+          🌐 5 Live Deploys
+        </text>
+      </g>
+
+      <!-- Pill 4 -->
+      <g transform="translate(355, 12)">
+        <rect width="100" height="24" rx="4" fill="#ff6b35" fill-opacity="0.12" stroke="#ff6b35" stroke-width="0.8" stroke-opacity="0.4"/>
+        <text x="50" y="15.5" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="10.5px" fill="#ff6b35" text-anchor="middle">
+          💼 Open to Roles
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
