@@ -1,26 +1,26 @@
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=M.Venkat&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=M.Venkat&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header Banner"/>
 
-<!-- ANIMATED TYPING -->
+<!-- ANIMATED TYPING BANNER -->
 <p align="center">
   <a href="https://github.com/m-venkat-11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+Building+Scalable+Apps+%26+AI+Systems;%F0%9F%92%A1+Turning+Ideas+Into+Production-Ready+Code;%E2%9A%A1+Python+%7C+React+%7C+Full-Stack+%7C+Docker" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+Architecting+Scalable+Web+%26+Mobile+Systems;%F0%9F%A7%A0+Building+AI-Powered+Platforms+%26+Audit+Engines;%E2%9A%A1+TypeScript+%7C+Next.js+%7C+Kotlin+%7C+Python+%7C+Supabase;%F0%9F%8E%AE+Creator+of+DuelVerse%2C+PathWise+%26+OmniPulse" alt="Typing SVG"/>
   </a>
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL & STATUS BADGES -->
 <p align="center">
   <a href="https://github.com/m-venkat-11">
-    <img src="https://img.shields.io/badge/GitHub-m--venkat--11-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-m--venkat--11-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub Profile"/>
   </a>
   &nbsp;
   <a href="mailto:mvenkatm366@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email Venkat"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=m-venkat-11&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=m-venkat-11&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views Counter"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to Roles and Collaborations"/>
 </p>
 
 ---
@@ -35,92 +35,229 @@ class Developer:
         self.name = "M.Venkat"
         self.roles = [
             "Full-Stack Architect",
-            "AI Engineer"
+            "AI Systems Engineer",
+            "Mobile App Developer"
         ]
         self.location = "India 🇮🇳"
         self.education = "B.Tech Computer Science"
 
     def tech_stack(self):
         return {
-            "frontend": [
-                "React",
-                "Next.js",
-                "JavaScript",
-                "HTML/CSS"
-            ],
-            "backend": [
-                "Python",
-                "FastAPI",
-                "PostgreSQL",
-                "Supabase"
-            ],
-            "cloud_ai": [
-                "Docker",
-                "Git",
-                "Gemini API",
-                "Linux"
-            ]
+            "frontend": ["TypeScript", "React", "Next.js 16", "Vite", "TailwindCSS"],
+            "backend":  ["Python", "FastAPI", "Node.js", "PostgreSQL", "Supabase"],
+            "mobile":   ["Android (Kotlin)", "Jetpack Compose"],
+            "systems":  ["C", "Linux", "WebRTC P2P", "SHA-256 Tamper Audit"],
+            "cloud_ai": ["Docker", "Git/CI-CD", "Gemini API", "Vercel AI SDK"]
         }
 
     def current_focus(self):
         return [
-            "🚀 Building impactful software & AI workflows",
-            "🌱 Expanding distributed systems knowledge",
-            "👯 Open source collaborations & hackathons",
-            "⚡ Debugging with coffee ☕"
+            "⚡ Real-time multiplayer arcade ecosystems (DuelVerse)",
+            "🌌 Cinematic holographic mobile tracking apps (PathWise)",
+            "🧠 Tamper-evident AI marketing intelligence (OmniPulse)",
+            "☕ Shipping clean, production-ready code with tests"
         ]
 ```
 
-## 🔥 Streak Stats
+---
 
+## 🚀 Featured Production Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="45%">Description & Highlights</th>
+      <th width="20%">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- DUELVERSE -->
+    <tr>
+      <td>
+        <b>⚡ DuelVerse</b><br/>
+        <sub>Real-Time Multiplayer Arcade Platform</sub><br/><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Bots-00D4FF?style=flat-square"/>
+      </td>
+      <td>
+        Instant web-based 1v1 multiplayer gaming platform with <b>10 arcade games</b> (Tank Duel, Connect Four, Pong Battle, etc.). Features sub-50ms peer-to-peer WebRTC networking, QR code room join, and unbeatable <b>CyberBot AI</b> (Minimax + Markov prediction).
+      </td>
+      <td>
+        <a href="https://duel-verse.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a><br/><br/>
+        <a href="https://github.com/m-venkat-11/Duel-Verse" target="_blank">
+          <img src="https://img.shields.io/badge/Source-0a0e27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </td>
+    </tr>
+    <!-- PATHWISE -->
+    <tr>
+      <td>
+        <b>🌌 PathWise (TrackMyPath)</b><br/>
+        <sub>Holographic UI Route & Landmark Navigator</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GPS_Tracking-FF6B35?style=flat-square"/>
+      </td>
+      <td>
+        Cinematic 3D sci-fi holographic interface for recording personal travel paths, visualising road networks, pinpointing landmarks, and spatial route recall. Features exact GPS trajectory fidelity and web companion dashboard.
+      </td>
+      <td>
+        <a href="https://web-mv-enkat.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a><br/><br/>
+        <a href="https://github.com/m-venkat-11/TrackMyPath" target="_blank">
+          <img src="https://img.shields.io/badge/Source-0a0e27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </td>
+    </tr>
+    <!-- OMNIPULSE -->
+    <tr>
+      <td>
+        <b>📊 Braco OmniPulse</b><br/>
+        <sub>Regional AI Campaign Intelligence & Audit</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel_AI-000000?style=flat-square"/>
+      </td>
+      <td>
+        Enterprise AI regional marketing intelligence system. Connects fact-locked regional adaptation, 3-pass brand compliance checks, human-in-the-loop approvals, and SHA-256 tamper-evident immutable audit trails. Built for <b>Samartha Hackathon Stage 1</b>.
+      </td>
+      <td>
+        <a href="https://github.com/m-venkat-11/OmniPulse" target="_blank">
+          <img src="https://img.shields.io/badge/Source-0a0e27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </td>
+    </tr>
+    <!-- AD-EVIDENCE -->
+    <tr>
+      <td>
+        <b>🛡️ AD-EVIDENCE</b><br/>
+        <sub>Evidence Layer for AI-Era Advertising</sub><br/><br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claim_Graph-00D4FF?style=flat-square"/>
+      </td>
+      <td>
+        Two-sided verification engine linking advertisements, claims, authoritative testing, and media provenance into an explainable, interactive claim graph with multi-party evidence tracking.
+      </td>
+      <td>
+        <a href="https://ad-evidence.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a><br/><br/>
+        <a href="https://github.com/m-venkat-11/AD-EVIDENCE" target="_blank">
+          <img src="https://img.shields.io/badge/Source-0a0e27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </td>
+    </tr>
+    <!-- SWASTHYA CONNECT -->
+    <tr>
+      <td>
+        <b>🏥 SwasthyaConnect</b><br/>
+        <sub>Rural Healthcare Access Assistant (SIH PS 26133)</sub><br/><br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SIH_2024-00FF88?style=flat-square"/>
+      </td>
+      <td>
+        Smart India Hackathon project helping rural citizens in Maharashtra and Andhra Pradesh discover and route to the correct public and government health centers based on medical urgency.
+      </td>
+      <td>
+        <a href="https://swasthya-connect-sigma.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a><br/><br/>
+        <a href="https://github.com/m-venkat-11/swasthya-connect" target="_blank">
+          <img src="https://img.shields.io/badge/Source-0a0e27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### 💻 Languages & Core
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,c,html,css&perline=7" alt="Languages"/>
 </p>
 
-## 🛠️ Tech Stack & Tools
-
+### 🌐 Frontend & UI Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,html,css,fastapi,postgres,mysql,supabase,docker,git,github,linux&perline=8" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,bootstrap&perline=6" alt="Frontend Frameworks"/>
 </p>
 
-## 🕹️ Pac-Man Eats My Contributions!
-
+### ⚙️ Backend, Databases & Cloud
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,mysql,sqlite&perline=6" alt="Backend & Databases"/>
 </p>
 
-## 🐍 Contribution Snake
-
+### 🧰 Mobile, DevOps & Tooling
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/output/github-snake.svg" alt="GitHub contribution snake"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,docker,git,github,githubactions,linux,vercel,postman&perline=8" alt="DevOps and Tools"/>
 </p>
 
-## 📊 GitHub Stats
+</div>
+
+---
+
+## 📊 Live GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-stats.svg" alt="GitHub Statistics"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/top-languages.svg" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-streak-stats.svg" alt="GitHub Streak Stats" width="80%"/>
 </p>
-
-## 🌟 Mission Statement
-
-Build useful software, explore emerging technologies, contribute to open source, and turn ambitious ideas into reliable production systems.
-
-## 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
+  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/github-stats.svg" alt="GitHub Statistics" width="48%"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/main/top-languages.svg" alt="Top Languages" width="48%"/>
 </p>
 
-## ⚡ Open to Internships, Collaborations & Research
+---
+
+## 🎮 Interactive Contribution Playground
+
+### 🕹️ Pac-Man Eats My Contributions!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="95%"/>
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-venkat-11/m-venkat-11/output/github-snake.svg" alt="GitHub contribution snake" width="95%"/>
+</p>
+
+---
+
+## 💬 Developer Mindset
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote"/>
+</p>
+
+---
+
+## 📬 Let's Connect & Collaborate
 
 <p align="center">
   <a href="mailto:mvenkatm366@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-mvenkatm366%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Contact"/>
+    <img src="https://img.shields.io/badge/Direct_Email-mvenkatm366%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Contact Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/m-venkat-11">
+    <img src="https://img.shields.io/badge/Follow-m--venkat--11-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="Follow on GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d4f8c,100:0a0e27&height=100&section=footer" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d4f8c,100:0a0e27&height=100&section=footer" alt="Footer Banner"/>
 </p>
